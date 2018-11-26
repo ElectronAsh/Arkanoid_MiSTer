@@ -4,7 +4,7 @@ Mostly running now, but needs so fixes for the sprites, and controller / paddle 
 
 It also doesn't implement the MC68705 MCU, so for now it only runs some of the bootleg ROMs.
 
-The core is using the T80 CPu, by Daniel Wallner, with fixes by MikeJ, Sorgelig, and others.
+The core is using the T80 CPU, by Daniel Wallner, with fixes by MikeJ, Sorgelig, and others.
 
 The YM2149 core is also by MikeJ, and Sorgelig.
 
